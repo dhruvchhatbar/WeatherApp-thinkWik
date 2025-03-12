@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "451CE1C4-55A5-4C53-B576-9C9643D0098C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91C9E23C-471C-4E69-AF2B-66870055D679"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp-Dhruv/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "doGetCurrentWaetherDataByName(name:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91C9E23C-471C-4E69-AF2B-66870055D679 - b6b609a3f9bcb07d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp_Dhruv.DataManager.doGetForcastData(lat: Swift.String, long: Swift.String, completion: (Swift.Result&lt;WeatherApp_Dhruv.WeatherForcastModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "91C9E23C-471C-4E69-AF2B-66870055D679 - f7b2a96e6ca4b4b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp_Dhruv.DataManager.doGetCurrentWaetherData(lat: Swift.String, long: Swift.String, completion: (Swift.Result&lt;WeatherApp_Dhruv.WeatherCurrentModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E46E5ACD-04D6-4B73-B26C-24E156FB6060"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp-Dhruv/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "doGetCurrentWaetherDataByName(name:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E46E5ACD-04D6-4B73-B26C-24E156FB6060 - a0c68e59ea636a6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.DataManager.doGetForcastData(lat: Swift.String, long: Swift.String, completion: (Swift.Result&lt;WeatherApp_Dhruv.WeatherForcastModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "E46E5ACD-04D6-4B73-B26C-24E156FB6060 - 19c88354938e8a75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.DataManager.doGetCurrentWaetherData(lat: Swift.String, long: Swift.String, completion: (Swift.Result&lt;WeatherApp_Dhruv.WeatherCurrentModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67E8BF75-C92E-40D4-A327-5471DD5A547D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp-Dhruv/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67E8BF75-C92E-40D4-A327-5471DD5A547D - e0e88b6b86d8d052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WeatherApp_Dhruv.WeatherForcastModel, Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.ViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "67E8BF75-C92E-40D4-A327-5471DD5A547D - 29aba3698dffd11b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;WeatherApp_Dhruv.WeatherForcastModel, Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.ViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "67E8BF75-C92E-40D4-A327-5471DD5A547D - 29aba3698dffd768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Result&lt;WeatherApp_Dhruv.WeatherCurrentModel, Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.ViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA3096AE-A76B-462B-A2FA-C9B1B2129F02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp-Dhruv/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA3096AE-A76B-462B-A2FA-C9B1B2129F02 - 29aba3698dffd452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Result&lt;WeatherApp_Dhruv.WeatherCurrentModel, Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.ViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+               <Location
+                  uuid = "FA3096AE-A76B-462B-A2FA-C9B1B2129F02 - 29aba3698dffd452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Result&lt;WeatherApp_Dhruv.WeatherCurrentModel, Swift.Error&gt;) -&gt; () in WeatherApp_Dhruv.ViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "WeatherApp-Dhruv"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvchhatbar/Documents/ThinkWik/WeatherApp-Dhruv/WeatherApp-Dhruv/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
